@@ -1,6 +1,6 @@
 # Olá, eu sou a Nathaly Bonfim 👋
 
-Sou formada em **Pedagogia** e atualmente estou expandindo minha carreira para a área de **Tecnologia e Design**.  
+Sou formada em **Pedagogia** e atualmente estou expandindo minha carreira para a área de **Análise e Desenvolvimento de Sistemas**.  
 Tenho experiência em **atendimento ao público, design de sobrancelhas, gestão de redes sociais e marketing digital**.  
 No momento, estudo **Design Profissional e Desenvolvimento Web**, e utilizo este espaço para compartilhar meus projetos e aprendizados.
 
