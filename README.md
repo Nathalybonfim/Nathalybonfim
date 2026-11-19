@@ -11,6 +11,7 @@ Atuo no **Suporte N1** e infraestrutura, garantindo o funcionamento e a rastreab
 * 🖥️ Preparação, configuração e manutenção básica de notebooks e tablets.
 * 📦 Gestão de ativos de TI (controle, disponibilidade e rastreabilidade de equipamentos).
 * 🛠️ Suporte técnico presencial (N1) aos usuários e abertura/acompanhamento de chamados e garantias junto aos fabricantes.
+* ✅ Escalonamento de suporte.
 
 ---
 
