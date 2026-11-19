@@ -2,7 +2,7 @@
 
 💻 Estudante do **3º semestre de Análise e Desenvolvimento de Sistemas** e **Estagiária de Tecnologia da Informação** no Governo do Estado de São Paulo. 
 
-Atuo no **Suporte N1** e infraestrutura, garantindo o funcionamento e a rastreabilidade de equipamentos tecnológicos. Com base sólida em comunicação, organização e resolução de problemas, hoje foco minha carreira na evolução técnica em **Suporte de TI, Infraestrutura e Desenvolvimento de Sistemas**.
+Atuo no **Suporte N1** e gestão de ativos, garantindo o funcionamento de equipamentos tecnológicos. Com base sólida em comunicação, organização e resolução de problemas, hoje foco minha carreira na evolução técnica em **Suporte de TI, Operações e Desenvolvimento de Sistemas**.
 
 ---
 
